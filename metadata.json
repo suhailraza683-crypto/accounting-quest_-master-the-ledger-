@@ -1,0 +1,6 @@
+{
+  "name": "Accounting Quest: Master the Ledger",
+  "description": "An interactive educational accounting game covering NCERT Class 11 chapters with flashcards, journal simulators, adjustments, and boss challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
